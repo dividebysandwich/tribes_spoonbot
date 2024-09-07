@@ -330,24 +330,24 @@ All weapon, item and vehicle definitions were left untouched, which means you pl
 - Fixed Guard behaviour (did't work at all)
 - Fixed Cheat-Teleport function warping bots out of the game field sometimes (Now that was creepy)
 
-###v0.6a
+### v0.6a
 - Found and fixed what seems to be the final treepoint navigation bug
 - Fixed Medic and Mortar not using Treepoints
 - Fixed JetToPos funtion to work more reliable
 - Fixed Medic not repairing Solar Panels
 
-###v0.6
+### v0.6
 - Fixed approx. 200 different bugs of all sizes and severities.
 - Got Treecode working 100%, provided that the Treefiles are ok.
 - Got CTF working 100% (They cap the flag on Broadside with no problems!!!!)
 
-###v0.5i
+### v0.5i
 - Fixed Energy bug
 - Fixed "Bot Runaway" bug
 - Improved a couple of AI issues regarding repairing/attacking objects
 - Some changes I forgot to remember
 
-###v0.5h
+### v0.5h
 - Switched ALL movement to utilize the treecode. Treefiles are now MANDATORY for operation!
 - Reduced CPU load
 - Smalled treefiles while still being compatible to the old format
@@ -357,10 +357,10 @@ All weapon, item and vehicle definitions were left untouched, which means you pl
 - Reduced Range-Of-Sight for the Sniper, for realisms sake.
 - Tested for TribesDemo-compatibility
 
-###v0.5g
+### v0.5g
 - No official release
 
-###v0.5f
+### v0.5f
 - New bot type: MORTAR BOT
 - CTF now works again, thanks to [COD]h0micide
 - Miner bot will go after the enemy flag
@@ -368,7 +368,7 @@ All weapon, item and vehicle definitions were left untouched, which means you pl
 - Mortar bot goes into the field for mortar-jobs ;-)
 - Changed bot evade code. They now skyrocket a bit too much - please tell me if this annoys you.
 
-###v0.5e
+### v0.5e
 - Fixed Demo-bot attacking teammembers
 - Dedicated Server stability issues solved!! (It's now safe to run a dedicated server, yay!!)
 - Standard weapon usage modified
@@ -376,7 +376,7 @@ All weapon, item and vehicle definitions were left untouched, which means you pl
 - Fixed some stupid typos
 - Got rid of MOST console error messages -> You can now run a dedicated server without having a 100Meg logfile after 10 hours
 
-###v0.5d
+### v0.5d
 - Optimized Treefile caltulation (takes minutes instead of hours!!)
 - Demolition bot behaviour added
 - Bots are more agressive, Medic and Painter now have defensive weapons too.
@@ -384,20 +384,20 @@ All weapon, item and vehicle definitions were left untouched, which means you pl
 - Fixed some more bugs.
 - Playing Tribes is fun again ;-)
 
-###v0.5c
+### v0.5c
 - Painter Bot now fully functional!!!
 - Bots now attack more "coordinated"
 - Fixed various typos and small bugs
 - All bots are now ROAMING bots
 
-###v0.5b
+### v0.5b
 - Restored Medic repair behaviour
 - Bots now jump on your HPC on own accord
 - The also jump off on their own ;-)
 - Turrets fire again
 - Even more compatibility with other mods!
 
-###v0.5a
+### v0.5a
 - Second Generation of Treecode. Treefiles created automatically
 - Deathmatch play works great.
 - Treefile calculation is AWKWARDLY slow. A 150 point treefile takes > 5 hours on a K6-3 400 !!! Calculation grows geometrically with each additional Treepoint
@@ -410,18 +410,18 @@ All weapon, item and vehicle definitions were left untouched, which means you pl
 - Only included my own CS files, so people can run their favourite Weapon MOD with SPOONBOT
 - Compared with v0.4f, this version adds a lot new features, but gameplay is less great.
 
-###v0.4g
+### v0.4g
 - First Generation of Treecode. Treefiles created manually
 
-###v0.4f
+### v0.4f
 - Last version of Spoonbot without Tree Code! I consider this to be the best possible bot without pre-stored paths
 
-###v0.4b
+### v0.4b
 - Mortaring bots finally works!! Every teammember can assign targets for all friendly Guard bots vie targeting laser.
 - Bots now chat while fighting (you can switch this off in SPOONBOT.CS)
 - The annoying "jumpy bot jetting" can now be switched off in SPOONBOT.CS
 
-###v0.4a
+### v0.4a
 - Bots retreat if severely damaged
 - Bots play CTF on their own (capturing the flag, returning the flag, attacking flagrunner)
 - You may now disable the A-Bomb in SPOONBOT.CS if you want, thus having the ORIGINAL rules of gameplay in Tribes.
@@ -429,7 +429,7 @@ All weapon, item and vehicle definitions were left untouched, which means you pl
 - Fixed an AI logical loop which caused servers to slow down and hang after approx. 30 minutes of play.
 - Fixed several waypoint issues.
 
-###v0.4
+### v0.4
 - Bots now roam around like human players if their name contains "Roam"
 - Bots can now be AutoSpawned via config file spoonbot.cs
 - Bots now jump and jetpack while fighting, thus really having a chance against humans!
