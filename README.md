@@ -1,4 +1,5 @@
 # Spoonbot
+![Spoonbot](https://github.com/user-attachments/assets/5ae1191e-f18e-4dc7-85b7-864864136dc4)
 
 ## Overview
 
